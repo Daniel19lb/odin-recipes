@@ -1,0 +1,1 @@
+El proyecto actual de recetas nos brindará una breve descripción de diferentes platos, postres, bebidas que podremos hacer a nuestro gusto.
